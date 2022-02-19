@@ -1,0 +1,3 @@
+conda activate IYO
+cd C:\Users\iyosa\Desktop\skripsi-main
+streamlit run app.py
